@@ -1,0 +1,8 @@
+{
+  "name": "@user/randomid-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ffrysz/id_generator_package.git",
+  "author": "F.Frysz",
+  "license": "MIT"
+}
